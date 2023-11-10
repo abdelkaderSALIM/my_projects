@@ -1,2 +1,2 @@
 # my_projects
-Here are some of the projects I've completed.
+Here are a few projects I've completed during my AI engineer training at OpenClassrooms..
